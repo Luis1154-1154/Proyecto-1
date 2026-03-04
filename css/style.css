@@ -1,0 +1,43 @@
+ul {
+    padding: 0;
+    margin: 0;
+    display: flex inline;
+    justify-content: center;
+    height: 100vh;
+    gap: 1rem;
+
+}
+li {
+    list-style: none;
+
+
+}
+li a {
+    text-decoration: none;
+    color: #000;
+    padding: 10px 1px;
+    display: block;
+    background-color: #f3f3f3;
+    transition: 0.5s;
+}
+
+#encabezado {
+    background-image: url("/descarga\ \(2\).jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+#title{
+    background-color: black;
+    height: 6rem;
+    color:whitesmoke;
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+
